@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.projects-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.project-image {
+  width: 200px;
+}
+
+.project-card {
+  margin-right: 30px;
+  text-align: center;
+}

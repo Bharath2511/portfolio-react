@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.portfolio-container {
+  display: flex;
+  width: 800px;
+  height: 100%;
+}
+
+.display-footer-nav-container {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  margin-left: 20px;
+}
+
+.display-container {
+  flex-grow: 1;
+  margin: 0px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  border: 1px solid #ffffff;
+  display: flex;
+  padding: 20px;
+}

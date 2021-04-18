@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.social-media-links {
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  border: 1px solid #ffffff;
+  padding: 15px;
+  border-radius: 10px;
+}

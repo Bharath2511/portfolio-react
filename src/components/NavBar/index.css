@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.nav-container {
+  display: flex;
+  flex-direction: column;
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.nav-links-container {
+  list-style-type: none;
+  padding: 0;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  outline: none;
+}
+
+.selected-button {
+  background-color: #ec4899;
+}
+
+.nav-image {
+  width: 25px;
+  margin-right: 10px;
+}
+
+.nav-item {
+  font-size: 12px;
+}
